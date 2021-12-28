@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jbhatti786
+- 👋 Hi, I’m Javed Bhatti
 - 👀 I’m interested in reactJS development
 - 🌱 I’m currently learning reactJS
 
